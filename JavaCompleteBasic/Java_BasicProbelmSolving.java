@@ -1,4 +1,4 @@
-// //  Hello Welcome to JavaWorld
+// //  Hello Welcome to  World
 package com.pack;
 import java.util.*;
 public class Java_BasicProbelmSolving {

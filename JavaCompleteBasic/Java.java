@@ -1,5 +1,5 @@
 
- //  Hello Welcome to JavaWorld !!!
+ //  Hello Welcome to JavaWorld
 /********************************************************************************************************************
 package com.pack;
 // Operator and Expression
